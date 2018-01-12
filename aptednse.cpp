@@ -17,10 +17,6 @@ char DNS[] = "google.com";
 int main()
 
 
-    
-
-
-
 { 
    
 HWND hwnd_win = GetForegroundWindow();
